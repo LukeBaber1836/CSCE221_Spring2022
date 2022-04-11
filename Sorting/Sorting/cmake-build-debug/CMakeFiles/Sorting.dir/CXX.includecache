@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lukebaber/Desktop/CSCE 221/Programing/Sorting/Sorting/main.cpp
+cctype
+-
+chrono
+-
+fstream
+-
+iostream
+-
+string
+-
+vector
+-
+sorting.h
+/Users/lukebaber/Desktop/CSCE 221/Programing/Sorting/Sorting/sorting.h
+
+/Users/lukebaber/Desktop/CSCE 221/Programing/Sorting/Sorting/sorting.h
+functional
+-
+iterator
+-
+
